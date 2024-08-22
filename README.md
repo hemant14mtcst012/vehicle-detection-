@@ -1,2 +1,2 @@
-# vehicle-detection-
-here we shall implement machine learning model and evaluate their efficiency for vehicle detection using various deep learning approaches
+# vehicle-detection
+Here we have implemented improved Faster R-CNN model and evaluate their efficiency for vehicle detection using DAWN (Detection in Adverse Weather Nature)dataset
