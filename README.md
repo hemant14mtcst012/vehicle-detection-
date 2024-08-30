@@ -6,4 +6,4 @@ The DAWN (Dark, Adverse Weather Nighttime) dataset is a specialized dataset desi
 https://data.mendeley.com/datasets/766ygrbt8y/3
 
 # Google Colab Link for Experiment Conducted
-https://colab.research.google.com/drive/1CyLFJ8LovQ3owDrPjW2LFkf1wkFOFavk?usp=sharing
+https://colab.research.google.com/drive/190FUoWR0QIV_exHuCU9-Sz-rYQP2iA9b?usp=sharing
